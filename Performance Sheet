@@ -1,0 +1,15 @@
+Goal & Hypotheses — Expected enqueue/dequeue complexity for PriorityQueue and 
+reasoning about tie stability cost. 
+
+
+• Methodology — Data sizes (N), seeds, distributions, machine info, JVM flags (if any). 
+
+
+• Results — Tables of times; simple charts (paste from spreadsheet). 
+
+
+• Analysis — Compare observed growth to O(log n); discuss constants and GC effects. 
+
+
+• Limits & Threats to Validity — Takeaways & Future Work (re-triage approach, multiple queues 
+per severity band, etc.). 
